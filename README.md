@@ -55,28 +55,20 @@ Este documento incluye la exploración de datos del sector de telecomunicaciones
 </p>
 <br>
 <p align="center">
-+ Declive de ADSL: La columna 'ADSL' presenta un descenso constante a lo largo de los años, indicando que la cantidad de conexiones a Internet por medio de ADSL ha estado disminuyendo de forma continua<br>
+ Declive de ADSL: La columna 'ADSL' presenta un descenso constante a lo largo de los años, indicando que la cantidad de conexiones a Internet por medio de ADSL ha estado disminuyendo de forma continua<br>
 
-+ Crecimiento de Fibra óptica: La columna 'Fibra óptica' revela un aumento constante a lo largo de los años, lo que sugiere que el número de conexiones a Internet mediante fibra óptica ha estado incrementándose de manera sostenida. En particular, entre 2018 y 2019, la fibra óptica experimentó un crecimiento cercano al 200%, mientras que las tecnologías que proporcionan velocidades más bajas decrecieron. Esto podría indicar que la fibra óptica está ganando popularidad en este período gracias a su mayor velocidad y fiabilidad.
+ Crecimiento de Fibra óptica: La columna 'Fibra óptica' revela un aumento constante a lo largo de los años, lo que sugiere que el número de conexiones a Internet mediante fibra óptica ha estado incrementándose de manera sostenida. En particular, entre 2018 y 2019, la fibra óptica experimentó un crecimiento cercano al 200%, mientras que las tecnologías que proporcionan velocidades más bajas decrecieron. Esto podría indicar que la fibra óptica está ganando popularidad en este período gracias a su mayor velocidad y fiabilidad.
 <br>
-+ Cambio en cablemodem y fibra óptica: entre 2021 y 2022, se observó una disminución de aproximadamente un 30% en las conexiones por cablemodem, junto con un crecimiento similar en las conexiones de fibra óptica. Esto podría sugerir que las personas están migrando de cablemodem a fibra óptica.<br>
+ Cambio en cablemodem y fibra óptica: entre 2021 y 2022, se observó una disminución de aproximadamente un 30% en las conexiones por cablemodem, junto con un crecimiento similar en las conexiones de fibra óptica. Esto podría sugerir que las personas están migrando de cablemodem a fibra óptica.<br>
 
-+ Crecimiento desigual entre tecnologías: No todas las tecnologías han experimentado un crecimiento al mismo ritmo. Por ejemplo, la columna 'Fibra óptica' ha experimentado un crecimiento mucho más rápido que la columna 'ADSL'. Esto podría indicar que diversas tecnologías están siendo adoptadas a distintas velocidades, posiblemente en diversas regiones o por diferentes grupos de usuarios.
+ Crecimiento desigual entre tecnologías: No todas las tecnologías han experimentado un crecimiento al mismo ritmo. Por ejemplo, la columna 'Fibra óptica' ha experimentado un crecimiento mucho más rápido que la columna 'ADSL'. Esto podría indicar que diversas tecnologías están siendo adoptadas a distintas velocidades, posiblemente en diversas regiones o por diferentes grupos de usuarios.
 </p>
 <br>
+<p align="center"><strong>Estos graficos representan la velocidad en Mbps por provincias Año a Año
+</strong></p><br>
 <p align="center">
 <img src="data/img/velocidad por provincias.png" alt="Accesos" width="1200" height="600">
 </p>
-<p align="center">
-En las representaciones gráficas, se puede observar de manera evidente cómo la velocidad de descarga en megabits por segundo (Mbps) ha experimentado un incremento en la mayoría de las provincias a lo largo del tiempo. No obstante, también resulta evidente que algunas provincias, como Chubut, han mantenido una velocidad de Internet relativamente estable sin experimentar un crecimiento significativo en comparación con otras regiones. Estos gráficos proporcionan una representación visual que permite identificar las diferencias en la evolución de la velocidad de Internet entre las distintas provincias.
-</p>
-
-
-<br>
-<p align="center">
-<img src="data/img/velocidad del inter por provincias por anio.png" alt="Accesos" width="1200" height="600">
-</p>
-
 <p align="center">
 1- Cada provincia se representa con un gráfico de línea diferente, donde el eje x representa el año y el eje y representa la velocidad promedio del internet en Mbps(megabytes por segundo).
 <br>
@@ -85,6 +77,18 @@ En las representaciones gráficas, se puede observar de manera evidente cómo la
 Analizando los graficos se puede observar una clara tendencia alsista en la velocidad del internet por provincia por año por lo que podemos decir que hubo inversiones en infraestructura tecnologia para la mejora del acceso a internet con una velocidad aprovechable para diferentes tareas.
 <br>
 Como en el resto de graficos se puede observar una fuerte superioridad en capital federal lo cual si no supiesemos nada de este pais nos dariamos cuenta que puede llegar a ser la capital del pais o una ciudad muy importante.
+</p>
+
+
+<br>
+<p align="center"><strong>Estos graficos representan la diferencia de velocidad en Mbps por provincias para cada Año
+</strong></p><br>
+<p align="center">
+<img src="data/img/velocidad del inter por provincias por anio.png" alt="Accesos" width="1200" height="600">
+</p>
+
+<p align="center">
+En las representaciones gráficas, se puede observar de manera evidente cómo la velocidad de descarga en megabits por segundo (Mbps) ha experimentado un incremento en la mayoría de las provincias a lo largo del tiempo. No obstante, también resulta evidente que algunas provincias, como Chubut, han mantenido una velocidad de Internet relativamente estable sin experimentar un crecimiento significativo en comparación con otras regiones. Estos gráficos proporcionan una representación visual que permite identificar las diferencias en la evolución de la velocidad de Internet entre las distintas provincias.
 </p>
 <br>
 <h2 align= "center">Datos</h2>
@@ -122,12 +126,12 @@ Los datos se encuentran en varios archivos XLSX, que luego se convirtieron a arc
 
 Finalmente, se cargaron en cuadernos Jupyter para su análisis.</p>
 
-<h2 align= "center">Contato</h2>
+<h2 align= "center">Contacto</h2>
 
 <br>
 
-<p align="center">"Estoy a tu disposición para cualquier consulta, sugerencia o simplemente para establecer una comunicación contigo. Puedes ponerte en contacto conmigo de la siguiente manera:"</p>
+<p align="center">Estoy a tu disposición para cualquier consulta, sugerencia o simplemente para establecer una comunicación contigo. Puedes ponerte en contacto conmigo de la siguiente manera:</p>
 <br>
-<p align="center">Correo Electrónico: [joaquincostamagna2608@gmail.com]</p>
+<p align="center">Correo Electrónico: joaquincostamagna2608@gmail.com</p>
 
 
